@@ -1,0 +1,5 @@
+Student_ID,Cluster,Risk_Level,Recommended_Type,Intervention,Assigned_Mentor,Alert_Status
+S1,3,High Risk,Academic,Intensive Academic + Wellness Support,Dr. Sharma,2
+S2,0,Low Risk,Career,Career Planning & Internships,Mr. Singh,4
+S3,1,Medium Risk,Academic,Remedial Classes,Dr. Sharma,7
+S4,2,Low Risk,Wellness,Motivation & Counseling,Ms. Kapoor,2
